@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="50834" started-at="2023-04-28T19:41:28 IST" finished-at="2023-04-28T19:42:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="50834" started-at="2023-04-28T19:41:28 IST" finished-at="2023-04-28T19:42:19 IST">
+      <class name="TestClass.TestLogin">
+        <test-method status="PASS" signature="m1()[pri:0, instance:TestClass.TestLogin@706a04ae]" name="m1" is-config="true" duration-ms="21397" started-at="2023-04-28T19:41:28 IST" finished-at="2023-04-28T19:41:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="m2()[pri:0, instance:TestClass.TestLogin@706a04ae]" name="m2" duration-ms="28902" started-at="2023-04-28T19:41:50 IST" finished-at="2023-04-28T19:42:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method status="PASS" signature="m3()[pri:0, instance:TestClass.TestLogin@706a04ae]" name="m3" is-config="true" duration-ms="461" started-at="2023-04-28T19:42:19 IST" finished-at="2023-04-28T19:42:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+      </class> <!-- TestClass.TestLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
